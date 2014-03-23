@@ -1,0 +1,29 @@
+{
+  "name": "tabulate",
+  "version": "1.0.0",
+  "description": "fit tabular data to the width of your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hij1nx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hij1nx/tabulate.git"
+  },
+  "keywords": [
+    "terminal",
+    "tabulate",
+    "columns",
+    "column-data",
+    "cols",
+    "lists",
+    "output",
+    "stdout"
+  ],
+  "bugs": {
+    "url": "https://github.com/hij1nx/tabulate/issues"
+  },
+  "homepage": "https://github.com/hij1nx/tabulate"
+}
